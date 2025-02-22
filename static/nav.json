@@ -16,7 +16,7 @@
 		"name": "腾讯视频",
 		"href": "https://v.qq.com/",
 		"desc": "影视",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/lv3.png"
 	}, {
 		"name": "优酷",
 		"href": "https://www.youku.com/",
@@ -26,7 +26,7 @@
 		"name": "github",
 		"href": "http://github.com",
 		"desc": "小猫",
-		"logo": "static/icons/mpyit.com.ico"
+		"logo": "static/icons/lv4.png"
 	}, {
 		"name": "CloudFlare",
 		"href": "https://CloudFlare.com",
