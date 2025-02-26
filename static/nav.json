@@ -76,7 +76,7 @@
 }, {
 	"_id": "yunpan",
 	"classify": "自-媒体",
-	"icon": "fa-television",
+	"icon": "ti-download",
 	"sites": [{
 		"name": "文叔叔",
 		"href": "https://www.wenshushu.cn/",
