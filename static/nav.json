@@ -75,7 +75,7 @@
 	}]
 }, {
 	"_id": "yunpan",
-	"classify": "自媒体信息",
+	"classify": "自媒体信",
 	"icon": "ti-cloud",
 	"sites": [{
 		"name": "文叔叔",
