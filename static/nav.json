@@ -75,7 +75,7 @@
 	}]
 }, {
 	"_id": "yunpan",
-	"classify": "云盘储存",
+	"classify": "自媒体信息",
 	"icon": "ti-cloud",
 	"sites": [{
 		"name": "文叔叔",
@@ -140,7 +140,7 @@
 	}]
 },  { 
 	"_id": "daohang",
-	"classify": "分类导航",
+	"classify": "AI系列",
 	"icon": "ti-bookmark-alt",
 	"sites": [{
 		"name": "今日热榜",
