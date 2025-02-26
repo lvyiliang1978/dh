@@ -76,7 +76,7 @@
 }, {
 	"_id": "yunpan",
 	"classify": "自-媒体",
-	"icon": "ti-video-camera",
+	"icon": "ti-desktop",
 	"sites": [{
 		"name": "文叔叔",
 		"href": "https://www.wenshushu.cn/",
