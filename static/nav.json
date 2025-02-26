@@ -75,8 +75,8 @@
 	}]
 }, {
 	"_id": "yunpan",
-	"classify": "自媒体信",
-	"icon": "ti-cloud",
+	"classify": "自-媒体",
+	"icon": "fa-television",
 	"sites": [{
 		"name": "文叔叔",
 		"href": "https://www.wenshushu.cn/",
