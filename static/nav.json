@@ -48,10 +48,10 @@
 		"desc": "腾讯AI",
 		"logo": "static/icons/sspai.com.ico"
 	}, {
-		"name": "Zdfans",
-		"href": "https://www.zdfans.com/",
+		"name": "notion",
+		"href": "https://www.notion.so",
 		"desc": "转手之后变得很难看，但还能用",
-		"logo": "static/icons/zdfans.com.ico"
+		"logo": "static/icons/notion.jpg"
 	}, {
 		"name": "小众软件",
 		"href": "https://www.appinn.com/",
