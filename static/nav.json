@@ -76,7 +76,7 @@
 }, {
 	"_id": "yunpan",
 	"classify": "自-媒体",
-	"icon": "ti-download",
+	"icon": "fa-solid fa-arrow-right",
 	"sites": [{
 		"name": "文叔叔",
 		"href": "https://www.wenshushu.cn/",
@@ -103,9 +103,9 @@
 		"desc": "微软云存储，支持在线Offiec编辑",
 		"logo": "static/icons/onedrive.live.com.ico"
 	}, {
-		"name": "DropBox",
-		"href": "https://www.dropbox.com/",
-		"desc": "全球最优秀的在线云存储",
+		"name": "图标",
+		"href": "https://macosicons.com/#/",
+		"desc": "各种平台paa图标",
 		"logo": "static/icons/dropbox.com.png"
 	}, {
 		"name": "GoogleDrive",
