@@ -140,47 +140,47 @@
 	}]
 },  { 
 	"_id": "daohang",
-	"classify": "AI系列",
+	"classify": "跨境电商",
 	"icon": "ti-bookmark-alt",
 	"sites": [{
-		"name": "今日热榜",
-		"href": "https://tophub.today/",
-		"desc": "主流新闻站热点当日集合",
+		"name": "妙手ERP",
+		"href": "https://erp.91miaoshou.com/",
+		"desc": "跨境电商辅助工具",
 		"logo": "static/icons/tophub.today.png"
 	},{
-		"name": "优设导航",
-		"href": "https://hao.uisdc.com/",
-		"desc": "一个优秀的设计师导航站",
+		"name": "eprolo",
+		"href": "http://www.eprolo.cn/zh/",
+		"desc": "一件代发",
 		"logo": "https://hao.uisdc.com/favicon.ico"
 	},{
-		"name": "堕落了",
-		"href": "https://www.duoluole.com/",
-		"desc": "年轻态友好向网址导航",
+		"name": "temu",
+		"href": "https://www.temu.com",
+		"desc": "一件代发",
 		"logo": "static/icons/duoluole.com.png"
 	},{
-		"name": "炫猿导航",
-		"href": "https://oo1.win/",
-		"desc": "一个炫酷的多功能导航站，收录品类丰富",
+		"name": "neobund",
+		"href": "https://www.neobund.com/",
+		"desc": "一件代发富",
 		"logo": "static/icons/oo1.win.ico"
 	},{
-		"name": "kim导航",
-		"href": "https://kim.plopco.com/",
-		"desc": "不罗嗦的导航，可切换国内外版本",
+		"name": "shein",
+		"href": "https://www.shein.com/",
+		"desc": "一件代发",
 		"logo": "static/icons/plopco.com.ico"
 	},{
-		"name": "龙轩导航",
-		"href": "http://ilxdh.com/",
-		"desc": "疯狂影视同属产品，支持登录添加自定义网址",
+		"name": "tt123",
+		"href": "https://www.tt123.com/",
+		"desc": "跨境店导航",
 		"logo": "static/icons/ilxdh.com.ico"
 	},{
-		"name": "设计导航",
-		"href": "http://hao.shejidaren.com/",
-		"desc": "偏向前端与ui的设计师导航站",
+		"name": "紫鸟浏览器",
+		"href": "https://www.ziniao.com/",
+		"desc": "紫鸟浏览器",
 		"logo": "static/icons/shejidaren.com.ico"
 	},{
-		"name": "考拉新媒体导航",
-		"href": "https://www.kaolamedia.com/",
-		"desc": "新媒体行业专业导航",
+		"name": "指纹浏览器",
+		"href": "https://www.hubstudio.cn/index.html",
+		"desc": "指纹浏览器",
 		"logo": "static/icons/kaolamedia.com.ico"
 	},{
 		"name": "医学导航",
